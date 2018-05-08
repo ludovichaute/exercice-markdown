@@ -76,11 +76,11 @@ Voici un example qui decris comme créer des une liste à pouce. Voici un exampl
 ### Code
 Il suffit d'entrer les  au début et à la fin suivi d'un ENTER
 
-
+```
 ```javascript
 function Mark() {
 console.log("look ma’, no spaces");
-}
+}```
 ```
 
 ### Resultat
