@@ -1,6 +1,25 @@
-<<<<<<< HEAD
+# Une liste a puces et une liste numerotee
 
-[Liens vers la syntaxe du markDown](https://github.com/ludovichaute/exercice-markdown/blob/master/markdown.md)
+## Une liste a puces
+
+* Pour afficher une liste, commencez la ligne par une astérisque*, un moins - ou un plus +. Là encore, le choix n’a pas d’importance, mais il faut rester cohérent dans votre document.
+
+* Example:
+  * Git
+  * Markdown
+  * GitHub
+
+## Une liste numerotee
+
+* Pour afficher une liste ordonnée, commencez la ligne par un nombre suivit d’un point. Pour que votre markdown soit plus lisible, je vous conseille d’ordonner proprement votre liste.
+
+* Example:
+  1. Git
+  2. Markdown
+  3. GitHub
+
+
+[Liens vers le Readme](https://github.com/ludovichaute/exercice-markdown)
 
 ![image du markDown](markdown.png)
 
@@ -18,32 +37,10 @@ Voici un example qui decris comme créer des une liste à pouce. Voici un exampl
 2. [Mise en ouvre](https://fr.wikipedia.org/wiki/Markdown#Mises_en_%C5%93uvre)
 3. [Évolution](https://fr.wikipedia.org/wiki/Markdown#%C3%89volutions)
 
->javascript
->function Mark() {
->console.log("look ma’, no spaces");
->}
+###Code
 
-# Une liste a puces et une liste numerotee
-
-## Une liste a puces
-
-* Pour afficher une liste, commencez la ligne par une astérisque*, un moins - ou un plus +. Là encore, le choix n’a pas d’importance, mais il faut rester cohérent dans votre document.
-
-* Example:
-         * Git
-
-         * Markdown
-
-         * GitHub
-
-
-## Une liste numerotee
-
-* Pour afficher une liste ordonnée, commencez la ligne par un nombre suivit d’un point. Pour que votre markdown soit plus lisible, je vous conseille d’ordonner proprement votre liste.
-
-* Example:
-          1.Git
-
-          2.Markdown
-
-          3.GitHub
+```javascript
+function Mark() {
+console.log("look ma’, no spaces");
+}
+```
