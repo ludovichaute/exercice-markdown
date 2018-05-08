@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 [Liens vers la syntaxe du markDown](https://github.com/ludovichaute/exercice-markdown/blob/master/markdown.md)
 
 ![image du markDown](markdown.png)
@@ -22,7 +20,8 @@ Voici un example qui decris comme créer des une liste à pouce. Voici un exampl
 function Mark() {
  console.log("look ma’, no spaces");
 }```
-=======
+
+
 # Une liste a puces et une liste numerotee
 
 ## Une liste a puces
@@ -42,4 +41,3 @@ function Mark() {
           1.Git
           2.Markdown
           3.GitHub
->>>>>>> Mariane
