@@ -18,11 +18,11 @@ Voici un example qui decris comme créer des une liste à pouce. Voici un exampl
 2. [Mise en ouvre](https://fr.wikipedia.org/wiki/Markdown#Mises_en_%C5%93uvre)
 3. [Évolution](https://fr.wikipedia.org/wiki/Markdown#%C3%89volutions)
 
-```javascript
-function Mark() {
- console.log("look ma’, no spaces");
-}```
-=======
+>javascript
+>function Mark() {
+>console.log("look ma’, no spaces");
+>}
+
 # Une liste a puces et une liste numerotee
 
 ## Une liste a puces
@@ -31,8 +31,11 @@ function Mark() {
 
 * Example:
          * Git
+
          * Markdown
+
          * GitHub
+
 
 ## Une liste numerotee
 
@@ -40,6 +43,7 @@ function Mark() {
 
 * Example:
           1.Git
+
           2.Markdown
+
           3.GitHub
->>>>>>> Mariane
