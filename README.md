@@ -6,6 +6,11 @@ https://github.com/becodeorg/lovelace-2/blob/master/01-La-prairie/exercice-markd
 
 ##Language utilises ?  
   
-+MarkDown  
-+Git  
+* MarkDown  
+* Git
+  
+#Difficultees :  
+> Utiliser Git et GitHub pour coordonner notre travail, nous sommes au debut de leur utilisation.
+> Premier travail en equipe, donc une coordination un peu complique au debut.
+> Devouverte d'un nouveau *language*.  
 
