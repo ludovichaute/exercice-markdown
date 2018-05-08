@@ -22,7 +22,8 @@ Voici un example qui decris comme créer des une liste à pouce. Voici un exampl
 ```javascript
 function Mark() {
 console.log("look ma’, no spaces");
-}´´´
+}
+```
 
 
 # Une liste a puces et une liste numerotee
