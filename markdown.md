@@ -1,3 +1,4 @@
+
 [Liens vers la syntaxe du markDown](https://github.com/ludovichaute/exercice-markdown/blob/master/markdown.md)
 
 ![image du markDown](markdown.png)
@@ -16,6 +17,13 @@ Voici un example qui decris comme créer des une liste à pouce. Voici un exampl
 2. [Mise en ouvre](https://fr.wikipedia.org/wiki/Markdown#Mises_en_%C5%93uvre)
 3. [Évolution](https://fr.wikipedia.org/wiki/Markdown#%C3%89volutions)
 
+###Code
+
+```javascript
+function Mark() {
+ console.log("look ma’, no spaces");
+}```
+=======
 >javascript
 >function Mark() {
 >console.log("look ma’, no spaces");
