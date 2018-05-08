@@ -1,6 +1,6 @@
-# Une liste a puces et une liste numerotee
+# Liste à pouces et liste numérotée
 
-## Une liste a puces
+## Une liste à pouces
 
 * Pour afficher une liste, commencez la ligne par une astérisque*, un moins - ou un plus +. Là encore, le choix n’a pas d’importance, mais il faut rester cohérent dans votre document.
 
@@ -9,7 +9,7 @@
   * Markdown
   * GitHub
 
-## Une liste numerotee
+## Une liste numérotée
 
 * Pour afficher une liste ordonnée, commencez la ligne par un nombre suivit d’un point. Pour que votre markdown soit plus lisible, je vous conseille d’ordonner proprement votre liste.
 
@@ -23,9 +23,14 @@
 
 ![image du markDown](markdown.png)
 
+![2e Image du Markdown](markdown2.png)
+
 ![When My co](https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif)
 
+![Here](https://media.giphy.com/media/ikxFSRrd9m1iw/giphy.gif)
+
 ## Liste à Pouces
+
 Voici un example qui decris comme créer des une liste à pouce. Voici un example.
 
 1. [Wiki Markdown](https://fr.wikipedia.org/wiki/Markdown)
@@ -37,7 +42,7 @@ Voici un example qui decris comme créer des une liste à pouce. Voici un exampl
 2. [Mise en ouvre](https://fr.wikipedia.org/wiki/Markdown#Mises_en_%C5%93uvre)
 3. [Évolution](https://fr.wikipedia.org/wiki/Markdown#%C3%89volutions)
 
-###Code
+### Code
 
 ```javascript
 function Mark() {
