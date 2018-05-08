@@ -32,25 +32,33 @@ Format: ![Alt Text](url)
 
 ## Liste à Pouces
 #### Procedure
+Voici un exemple de comment insèrer des listes dans votre MarkDown
 ##### Unordered List
+Utilise les * pour une liste à puces (Unordered List)
+
 ```
 * Item 1
 * Item 2
   * Item 2a
   * Item 2b
 ```
-##### Ordered List
+#### Ordered List
+Utilisez la numerations pour une liste ordonée (Ordered List)
+
+
 ```
 1. Item 1
 2. Item 2
   * Item 2a
   * Item 2b
 ```
-##### Liks
+#### Liens
+Il suffit d'entrer votre TEXTE à afficher suivi du lien
+
 ```
 [TEXTE](URL)
 ```
->#### Résultat
+>### Résultat
 
 Voici un example qui decris comme créer des une liste à pouce. Voici un example.
 
@@ -64,6 +72,8 @@ Voici un example qui decris comme créer des une liste à pouce. Voici un exampl
 3. [Évolution](https://fr.wikipedia.org/wiki/Markdown#%C3%89volutions)
 
 ### Code
+Il suffit d'entrer les  ``` au début et à la fin suivi d'un ENTER
+
 ```
 ```javascript
 function Mark() {
