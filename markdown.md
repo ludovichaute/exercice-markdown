@@ -19,11 +19,7 @@ Voici un example qui decris comme créer des une liste à pouce. Voici un exampl
 
 ###Code
 
-```javascript
-function Mark() {
- console.log("look ma’, no spaces");
-}```
-=======
+
 >javascript
 >function Mark() {
 >console.log("look ma’, no spaces");
@@ -38,7 +34,6 @@ function Mark() {
 
 * Example:
   * Git
-  
          * Markdown
          * GitHub
 
