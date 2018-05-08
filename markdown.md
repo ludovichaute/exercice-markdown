@@ -29,7 +29,8 @@ Voici un example qui decris comme créer des une liste à pouce. Voici un exampl
 * Pour afficher une liste, commencez la ligne par une astérisque*, un moins - ou un plus +. Là encore, le choix n’a pas d’importance, mais il faut rester cohérent dans votre document.
 
 * Example:
-         * Git
+  * Git
+  
          * Markdown
          * GitHub
 
