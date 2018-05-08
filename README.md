@@ -8,6 +8,8 @@ https://github.com/becodeorg/lovelace-2/blob/master/01-La-prairie/exercice-markd
 * Utiliser Git et GitHub pour coordonner notre travail, nous sommes au debut de leur utilisation.  
 * Premier travail en equipe, donc une coordination un peu complique au debut.  
 * Devouverte d'un nouveau *language*.
+## Table des matières
+* [Liste à puces](https://github.com/ludovichaute/exercice-markdown/blob/master/markdown.md#Une liste à pouces)
 ## Collaborateurs
 * [Claudiu Cornea](https://github.com/ClaudiuCornea)
 * [Ludovic Hautecoeur](https://github.com/ludovichaute)
