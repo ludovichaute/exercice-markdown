@@ -23,14 +23,11 @@
 
 ![image du markDown](markdown.png)
 
-<<<<<<< HEAD
 ![2e Image du Markdown](markdown2.png)
 =======
 
 ### Insertion d’une image animée, une liste (à puce ou ordonnée) imbriquées (donc plusieurs niveaux hiérarchiques),un bout de code, avec coloration syntaxique
 
-
->>>>>>> e58a873954ef407dee14dfb20400a1fe787ac8bd
 
 ![When My co](https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif)
 ##### Procedure pour insèrer un image gif
@@ -69,13 +66,11 @@ Il suffit d'entrer votre TEXTE à afficher suivi du lien
 ```
 >### Résultat
 
-<<<<<<< HEAD
 ![Here](https://media.giphy.com/media/ikxFSRrd9m1iw/giphy.gif)
 
 ## Liste à Pouces
 
 =======
->>>>>>> e58a873954ef407dee14dfb20400a1fe787ac8bd
 Voici un example qui decris comme créer des une liste à pouce. Voici un example.
 
 1. [Wiki Markdown](https://fr.wikipedia.org/wiki/Markdown)
@@ -88,8 +83,6 @@ Voici un example qui decris comme créer des une liste à pouce. Voici un exampl
 3. [Évolution](https://fr.wikipedia.org/wiki/Markdown#%C3%89volutions)
 
 ### Code
-<<<<<<< HEAD
-=======
 Il suffit d'entrer ``` les  au début et à la fin suivi d'un ENTER
 
 ```
@@ -101,7 +94,6 @@ console.log("look ma’, no spaces");
 
 ### Resultat
 
->>>>>>> e58a873954ef407dee14dfb20400a1fe787ac8bd
 
 ```javascript
 function Mark() {
