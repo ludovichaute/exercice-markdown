@@ -1,5 +1,4 @@
-# **Exercice MarkDown : Intelligence Collective**  
-  
+# **Exercice MarkDown : Intelligence Collective** - 8 mai 2018
 ## Lien des consignes  
 https://github.com/becodeorg/lovelace-2/blob/master/01-La-prairie/exercice-markdown-groupe.md  
 ## Language utilises ?  
@@ -16,4 +15,3 @@ https://github.com/becodeorg/lovelace-2/blob/master/01-La-prairie/exercice-markd
 * [Meilyn Andrad](https://github.com/Meilyn)
 ## Status
 ![](https://adambager.files.wordpress.com/2015/03/wip.png)  
-`8 mai 2018`
