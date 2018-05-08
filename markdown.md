@@ -74,7 +74,7 @@ Voici un example qui decris comme créer des une liste à pouce. Voici un exampl
 3. [Évolution](https://fr.wikipedia.org/wiki/Markdown#%C3%89volutions)
 
 ### Code
-Il suffit d'entrer les  au début et à la fin suivi d'un ENTER
+Il suffit d'entrer ``` les  au début et à la fin suivi d'un ENTER
 
 ```
 ```javascript
