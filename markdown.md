@@ -19,11 +19,10 @@ Voici un example qui decris comme créer des une liste à pouce. Voici un exampl
 
 ###Code
 
-
->javascript
->function Mark() {
->console.log("look ma’, no spaces");
->}
+```javascript
+function Mark() {
+console.log("look ma’, no spaces");
+}´´´
 
 
 # Une liste a puces et une liste numerotee
@@ -42,6 +41,6 @@ Voici un example qui decris comme créer des une liste à pouce. Voici un exampl
 * Pour afficher une liste ordonnée, commencez la ligne par un nombre suivit d’un point. Pour que votre markdown soit plus lisible, je vous conseille d’ordonner proprement votre liste.
 
 * Example:
-  1.Git
-  2.Markdown
-  3.GitHub
+  1. Git
+  2. Markdown
+  3. GitHub
