@@ -23,9 +23,48 @@
 
 ![image du markDown](markdown.png)
 
-![When My co](https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif)
 
-## Liste à Pouces
+### Insertion d’une image animée, une liste (à puce ou ordonnée) imbriquées (donc plusieurs niveaux hiérarchiques),un bout de code, avec coloration syntaxique
+
+
+
+![When My co](https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif)
+##### Procedure pour insèrer un image gif
+```
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
+```
+
+## Liste à Puces
+#### Procedure
+Voici un exemple de comment insèrer des listes dans votre MarkDown
+##### Unordered List
+Utilise les * pour une liste à puces (Unordered List)
+
+```
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+```
+#### Ordered List
+Utilisez la numerations pour une liste ordonée (Ordered List)
+
+
+```
+1. Item 1
+2. Item 2
+  * Item 2a
+  * Item 2b
+```
+#### Liens
+Il suffit d'entrer votre TEXTE à afficher suivi du lien
+
+```
+[TEXTE](URL)
+```
+>### Résultat
+
 Voici un example qui decris comme créer des une liste à pouce. Voici un example.
 
 1. [Wiki Markdown](https://fr.wikipedia.org/wiki/Markdown)
@@ -37,7 +76,18 @@ Voici un example qui decris comme créer des une liste à pouce. Voici un exampl
 2. [Mise en ouvre](https://fr.wikipedia.org/wiki/Markdown#Mises_en_%C5%93uvre)
 3. [Évolution](https://fr.wikipedia.org/wiki/Markdown#%C3%89volutions)
 
-###Code
+### Code
+Il suffit d'entrer ``` les  au début et à la fin suivi d'un ENTER
+
+```
+```javascript
+function Mark() {
+console.log("look ma’, no spaces");
+}```
+```
+
+### Resultat
+
 
 ```javascript
 function Mark() {
