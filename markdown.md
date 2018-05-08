@@ -34,14 +34,14 @@ Voici un example qui decris comme créer des une liste à pouce. Voici un exampl
 
 * Example:
   * Git
-         * Markdown
-         * GitHub
+  * Markdown
+  * GitHub
 
 ## Une liste numerotee
 
 * Pour afficher une liste ordonnée, commencez la ligne par un nombre suivit d’un point. Pour que votre markdown soit plus lisible, je vous conseille d’ordonner proprement votre liste.
 
 * Example:
-          1.Git
-          2.Markdown
-          3.GitHub
+  1.Git
+  2.Markdown
+  3.GitHub
