@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+
+>>>>>>> d8d5ab494a27e00737428bf7d7eb70076ee006c9
 # Liste à pouces et liste numérotée
 
 ## Une liste à pouces
@@ -67,6 +71,11 @@ L'élément blockquote représente une section citée à partir d'une autre sour
 
 ## Liste à puces
 
+<<<<<<< HEAD
+=======
+
+![When My co](https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif)
+>>>>>>> d8d5ab494a27e00737428bf7d7eb70076ee006c9
 ##### Procedure pour insèrer un image gif
 
 Pour afficher une liste, commencez la ligne par une astérisque*, un moins - ou un plus +. Là encore, le choix n’a pas d’importance, mais il faut rester cohérent dans votre document.<br>
@@ -154,9 +163,9 @@ Format: ![Alt Text](url)
 
 ## Liste à Pouces
 
-=======
+
 Voici un example qui decris comme créer des une liste à pouce. Voici un example.
-=======
+
 ![When My co](https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif)
 
 
