@@ -2,7 +2,7 @@
 # Liste à pouces et liste numérotée
 
 ## Une liste à pouces
-=======
+
 # Introduction à Markdown
 
 Markdown est un [langage de balisage léger](https://fr.wikipedia.org/wiki/Langage_de_balisage_l%C3%A9ger) créé par John Gruber en 2004. Son but est d'offrir une syntaxe facile à lire et à écrire. Un document balisé par Markdown peut être lu en l'état sans donner l’impression d'avoir été balisé ou formaté par des instructions particulières.
@@ -12,18 +12,18 @@ Un document balisé par Markdown peut être converti en HTML ou en autres format
 
 # MarkDown Syntaxe
 
-<<<<<<< HEAD
+
 ## Une liste numérotée
 
 * Pour afficher une liste ordonnée, commencez la ligne par un nombre suivit d’un point. Pour que votre markdown soit plus lisible, je vous conseille d’ordonner proprement votre liste.
-=======
+
 ## Headers (Entêtes)
 ```
 # This is an <h1> tag
 ## This is an <h2> tag
 ###### This is an <h6> tag
 ```
->>>>>>> DEV
+
 
 ## Accentuation (Emphasis)
 Ce *texte sera en italique*, **Ce texte sera en gras**.
@@ -40,14 +40,14 @@ __Ce sera aussi en gras__
 
 L'élément blockquote représente une section citée à partir d'une autre source.
 
-<<<<<<< HEAD
+
 ![2e Image du Markdown](markdown2.png)
-=======
-=======
+
+
 ```
-> Blockquote commande ">" 
-``` 
->>>>>>> DEV
+> Blockquote commande ">"
+```
+
 
  >Linus Torvalds<br>
  >La philosophie de Linux est ' Rire face à un danger '. Oups. Ce n'est pas le bon ' Faites-le vous-même '. Oui, c'est ça.
@@ -60,7 +60,7 @@ L'élément blockquote représente une section citée à partir d'une autre sour
 =======
 Pour afficher une liste, commencez la ligne par une astérisque*, un moins - ou un plus +. Là encore, le choix n’a pas d’importance, mais il faut rester cohérent dans votre document.<br>
 
->>>>>>> DEV
+
 ```
 * sujet 1
 * sujet 2
@@ -96,9 +96,9 @@ Pour afficher une liste ordonnée, commencez la ligne par un nombre suivit d’u
   1. Git
   2. Markdown
   3. GitHub
-  
+
 ### Listes numérotées (Hiérarchiques)
-  
+
 ```
 1. Item 1
 2. Item 2
@@ -131,7 +131,7 @@ Insèrer une image gif<br>
 Format: ![Alt Text](url)
 ```
 
-<<<<<<< HEAD
+
 ![Here](https://media.giphy.com/media/gctdBFpSyRkpG/giphy.gif)
 
 ## Liste à Pouces
@@ -140,7 +140,7 @@ Format: ![Alt Text](url)
 Voici un example qui decris comme créer des une liste à pouce. Voici un example.
 =======
 ![When My co](https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif)
->>>>>>> DEV
+
 
 ## Liens
 Il suffit d'entrer votre TEXTE à afficher suivi du lien
