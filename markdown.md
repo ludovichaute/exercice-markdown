@@ -6,7 +6,7 @@
 # Introduction à Markdown
 
 Markdown est un [langage de balisage léger](https://fr.wikipedia.org/wiki/Langage_de_balisage_l%C3%A9ger) créé par John Gruber en 2004. Son but est d'offrir une syntaxe facile à lire et à écrire. Un document balisé par Markdown peut être lu en l'état sans donner l’impression d'avoir été balisé ou formaté par des instructions particulières.
->>>>>>> DEV
+
 
 Un document balisé par Markdown peut être converti en HTML ou en autres formats. Bien que la syntaxe Markdown ait été influencée par plusieurs filtres de conversion de texte existants vers HTML — dont [Setext1](https://fr.wikipedia.org/wiki/Setext), atx2, [Textile](https://fr.wikipedia.org/wiki/Textile_(langage)), [reStructuredText](https://fr.wikipedia.org/wiki/ReStructuredText), Grutatext et EtText —, la source d’inspiration principale est le format du courrier électronique en mode texte.
 
