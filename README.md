@@ -20,6 +20,6 @@ https://github.com/becodeorg/lovelace-2/blob/master/01-La-prairie/exercice-markd
 * [Claudiu Cornea](https://github.com/ClaudiuCornea)
 * [Ludovic Hautecoeur](https://github.com/ludovichaute)
 * [Mariane Niwemfura](https://github.com/MarianeNiwe)
-* [Meilyn Andrad](https://github.com/Meilyn)
-## Status
+* [Meilyn Andrade](https://meilyn.github.io/)
+
 ![](https://adambager.files.wordpress.com/2015/03/wip.png)  
