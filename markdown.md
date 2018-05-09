@@ -46,7 +46,6 @@ L'élément blockquote représente une section citée à partir d'une autre sour
 
 ## Liste à puces
 
-##### Procedure pour insèrer un image gif
 
 Pour afficher une liste, commencez la ligne par une astérisque*, un moins - ou un plus +. Là encore, le choix n’a pas d’importance, mais il faut rester cohérent dans votre document.<br>
 
