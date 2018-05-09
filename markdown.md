@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# Liste à pouces et liste numérotée
+
+## Une liste à pouces
+
+>>>>>>> origin
 # Introduction à Markdown
 
 Markdown est un [langage de balisage léger](https://fr.wikipedia.org/wiki/Langage_de_balisage_l%C3%A9ger) créé par John Gruber en 2004. Son but est d'offrir une syntaxe facile à lire et à écrire. Un document balisé par Markdown peut être lu en l'état sans donner l’impression d'avoir été balisé ou formaté par des instructions particulières.
@@ -10,7 +18,11 @@ Un document balisé par Markdown peut être converti en HTML ou en autres format
 
 ## Une liste numérotée
 
+<<<<<<< HEAD
 Pour afficher une liste ordonnée, commencez la ligne par un nombre suivit d’un point. Pour que votre markdown soit plus lisible, je vous conseille d’ordonner proprement votre liste.
+=======
+* Pour afficher une liste ordonnée, commencez la ligne par un nombre suivit d’un point. Pour que votre markdown soit plus lisible, je vous conseille d’ordonner proprement votre liste.
+>>>>>>> origin
 
 ## Headers (Entêtes)
 ```
@@ -36,9 +48,18 @@ __Ce sera aussi en gras__
 L'élément blockquote représente une section citée à partir d'une autre source.
 
 
+<<<<<<< HEAD
 ```
 > Blockquote commande ">" 
 ``` 
+=======
+![2e Image du Markdown](markdown2.png)
+
+
+```
+> Blockquote commande ">"
+```
+>>>>>>> origin
 
 
  >Linus Torvalds<br>
@@ -50,6 +71,10 @@ L'élément blockquote représente une section citée à partir d'une autre sour
 
 Pour afficher une liste, commencez la ligne par une astérisque*, un moins - ou un plus +. Là encore, le choix n’a pas d’importance, mais il faut rester cohérent dans votre document.<br>
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin
 ```
 * sujet 1
 * sujet 2
@@ -85,9 +110,9 @@ Pour afficher une liste ordonnée, commencez la ligne par un nombre suivit d’u
   1. Git
   2. Markdown
   3. GitHub
-  
+
 ### Listes numérotées (Hiérarchiques)
-  
+
 ```
 1. Item 1
 2. Item 2
@@ -122,6 +147,20 @@ Insèrer une image gif<br>
 Format: ![Alt Text](url)
 ```
 
+<<<<<<< HEAD
+=======
+
+![Here](https://media.giphy.com/media/gctdBFpSyRkpG/giphy.gif)
+
+## Liste à Pouces
+
+=======
+Voici un example qui decris comme créer des une liste à pouce. Voici un example.
+=======
+![When My co](https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif)
+
+
+>>>>>>> origin
 ## Liens
 Il suffit d'entrer votre TEXTE à afficher suivi du lien
 
